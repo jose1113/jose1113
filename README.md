@@ -31,5 +31,5 @@ As an eternal learner, I am always fully dedicated to new learning.
 📈 **My GitHub Stats:**
 
 <div style="display:flex; flex-direction: row;">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=jose1113&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1113&layout=demo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose1113&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1113&layout=demo" />
 </div>
