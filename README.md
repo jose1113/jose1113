@@ -23,7 +23,7 @@ As an eternal learner, I am always fully dedicated to new learning.
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="16"> Vue.js;
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuxt_icon_130293.png" width="16"> Nuxt.js;
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" width="16"> Laravel;
-- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/phpmyadmin_logo_icon_168050.png" width="16"> PHPMyAdmin;
+- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_plain_logo_icon_146414.png" width="16"> MySQL;
 
 
 </br>
